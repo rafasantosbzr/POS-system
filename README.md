@@ -216,7 +216,7 @@ Adicionalmente, também podem ser cadastrados dados referentes ao endereço do c
     "rua": "Avenida Tiradentes",
     "numero": "42",
     "bairro": "Centro",
-    "cidade": Campinas,
+    "cidade": "Campinas",
     "estado": "São Paulo"
 }
 ```
